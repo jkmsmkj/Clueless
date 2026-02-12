@@ -39,22 +39,7 @@ codegen/
 *.sbproj.backup
 *.sbproj.bak
 
-/CGame.mat
-
-/CGame5.mat
-
-/build/buildresult.json
-
-/build/includedSupportPackages.txt
-
-/build/mccExcludedFiles.log
-
-/build/readme.txt
-
-/build/requiredMCRProducts.txt
-
-/package/
-
+# Build & Package Folders
 /build/
-
+/package/
 /release/
