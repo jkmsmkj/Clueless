@@ -10,10 +10,9 @@ A MATLAB app for [Problem 61069 of Cody Contest 2025: Clueless - Lord Ned in the
 
 ## Acknowledgements
 For Cody Contest 2025: Thanks to [Matt Tearle](https://www.mathworks.com/matlabcentral/profile/authors/1455089) and [Chen Lin](https://www.mathworks.com/matlabcentral/profile/authors/6682740).  
-For the Solver Algorithm: Many many special thanks to [Stephen Abendroth](https://www.mathworks.com/matlabcentral/profile/authors/26809900), [Zi-Xiang Wang](https://www.mathworks.com/matlabcentral/profile/authors/5422006) and [Vasilis Bellos](https://www.mathworks.com/matlabcentral/profile/authors/13754969) from whom I learnt a lot while trying to solve this nontrivial programming problem.
+For the Solver Algorithm: Many many special thanks to [Stefan Abendroth](https://www.mathworks.com/matlabcentral/profile/authors/26809900), [Zi-Xiang Wang](https://www.mathworks.com/matlabcentral/profile/authors/5422006) and [Vasilis Bellos](https://www.mathworks.com/matlabcentral/profile/authors/13754969) from whom I learnt a lot while trying to solve this nontrivial programming problem.
 
 ### Appeal
 Help improve the app by contributing to the source code! Suggestions, issues and comments are always welcome...
 
-Thanks and enjoy the game!🙂  
-[JKMSMKJ](https://www.mathworks.com/matlabcentral/profile/authors/269358)
+Thanks and enjoy the game!🙂
