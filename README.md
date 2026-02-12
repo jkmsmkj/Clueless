@@ -1,7 +1,7 @@
 # Clueless Game
 A MATLAB app for [Problem 61069 of Cody Contest 2025: Clueless - Lord Ned in the Game Room](https://www.mathworks.com/matlabcentral/cody/groups/96682/problems/61069).
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=jkmsmkj/Clueless)
+[![View Clueless on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183245-clueless) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=jkmsmkj/Clueless)
 
 ## Features
 1. Solve the 1+20 games (test cases) provided with the problem statement (linked above), step-by-step.
