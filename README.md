@@ -6,7 +6,7 @@ A MATLAB app for [Problem 61069 of Cody Contest 2025: Clueless - Lord Ned in the
 ## Features
 1. Solve the 1+20 games (test cases) provided with the problem statement (linked above), step-by-step.
 2. Play unscripted games with 3 - 5 categories of cards and choose from three difficulty levels.
-3. Save and load games for extra fun!
+3. Save and load games from the perspective of all players for extra fun!
 
 ## Acknowledgements
 For Cody Contest 2025: Thanks to [Matt Tearle](https://www.mathworks.com/matlabcentral/profile/authors/1455089) and [Chen Lin](https://www.mathworks.com/matlabcentral/profile/authors/6682740).  
