@@ -1,0 +1,109 @@
+name = "Clueless"
+
+[project]
+summary = "An app for problem 61069 of Cody Contest 2025: Clueless - Lord Ned in the Game Room"
+
+[project.labels."Standalone Application"]
+"Additional File" = [
+]
+"Installer Splash Image File" = [
+    "images/clueless_splash.png",
+]
+"Main Function" = [
+    "Clueless.mlapp",
+]
+"Executable Splash Image File" = [
+    "images/clueless_splash.png",
+]
+"Windows Apps & Features Icon File" = [
+]
+"Executable Icon File" = [
+    "images/clueless_icon.png",
+]
+"Installer Logo Image File" = [
+    "images/clueless_logo.png",
+]
+"Help Text File" = [
+]
+"Installer Icon File" = [
+    "images/clueless_icon.png",
+]
+"Installer Additional Files" = [
+    "CGame4.mat",
+    "CGame5.mat",
+]
+
+[project.labels.Toolbox]
+"Toolbox Image File" = [
+    "images/clueless_icon.png",
+]
+"App Gallery File" = [
+    "Clueless.mlapp",
+]
+"Getting Started Guide" = [
+]
+
+[[package]]
+configuration-name = "Clueless Package"
+use-license-bsd = true
+name = "Clueless"
+version = "1.3.3"
+description = "Inspired by the Problem 61069 of Cody Content 2025: Clueless - Lord Ned in the Game Room"
+id = "fe4abf48-b403-4f59-a9a3-40646d5506bd"
+package-root = "/"
+provider.name = "JKMSMKJ"
+provider.email = "jkmsmkj@outlook.com"
+provider.organization = "JKMSMKJ.FYI"
+display-name = "Clueless"
+summary = "Lord Ned's Clueless game"
+output-file-name = "Clueless.mltbx"
+output-folder = "release"
+release-compatibility = ">=20.1.*"
+preview-image-file = "images/clueless_icon.png"
+app-gallery-files = [
+    "Clueless.mlapp",
+]
+supported-platforms = [
+    "windows",
+    "linux",
+    "macos",
+]
+lastAccessed = "1791551491855"
+
+[[compiler.standalone]]
+configuration-name = "Clueless Application"
+author-name = "JKMSMKJ"
+executable-version = "1.3"
+example-text = ""
+help-text = ""
+author-company = "JKMSMKJ.FYI"
+runtime-log-file = ""
+executable-name = "Clueless"
+author-email = "jkmsmkj@outlook.com"
+summary = "Lord Ned's Clueless game"
+description = "Inspired by the Problem 61069 of Cody Content 2025: Clueless - Lord Ned in the Game Room"
+auto-detect-data-files = true
+obfuscate-archive = false
+verbose = true
+embed-archive = true
+output-folder = "build"
+suppress-windows-cmd-prompt = false
+treat-inputs-as-numeric = false
+app-file = "Clueless.mlapp"
+executable-splash-screen = "images/clueless_splash.png"
+executable-icon = "images/clueless_icon.png"
+default-installation-folder = ""
+installer-output-folder = "package"
+installer-name = "Clueless_Setup"
+installation-notes = "Clueless Game has been installed.\nYou can pin '%installation folder%\\application\\Clueless.exe' to the start menu on Windows for easy access.\n\nThanks for installing and have fun playing the game!\nJKMSMKJ"
+installer-icon-file = "images/clueless_icon.png"
+application-name = ""
+installer-version = "1.0"
+runtime-delivery = "web"
+installer-splash-file = "images/clueless_splash.png"
+installer-logo-file = "images/clueless_logo.png"
+installer-additional-files = [
+    "CGame4.mat",
+    "CGame5.mat",
+]
+lastAccessed = "1791550994540"
